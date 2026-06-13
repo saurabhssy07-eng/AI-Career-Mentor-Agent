@@ -1,8 +1,27 @@
 some screenShots of the project
 
-Screenshot 2026-06-13 131929.png
-Screenshot 2026-06-13 170248.png
-Screenshot 2026-06-13 170644.png
-Screenshot 2026-06-13 170741.png
-Screenshot 2026-06-13 171352.png
-Screenshot 2026-06-13 223607.png
+## Screenshots
+
+### Agent Architecture
+
+![Agent Architecture](Screenshot%202026-06-13%20131929.png)
+
+### Azure AI Foundry Agent
+
+![Azure AI Foundry Agent](Screenshot%202026-06-13%20170248.png)
+
+### Multi-Agent Execution Trace
+
+![Execution Trace](Screenshot%202026-06-13%20170644.png)
+
+### Career Recommendation Output
+
+![Career Recommendation](Screenshot%202026-06-13%20170741.png)
+
+### Career Roadmap
+
+![Career Roadmap](Screenshot%202026-06-13%20171352.png)
+
+### Final Output
+
+![Final Output](Screenshot%202026-06-13%20223607.png)
