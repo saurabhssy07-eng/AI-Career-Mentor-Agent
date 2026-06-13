@@ -258,7 +258,12 @@ Benefits:
 
 ### Sample Output
 
-(Add output screenshots here)
+Screenshot 2026-06-13 131929.png
+Screenshot 2026-06-13 170248.png
+Screenshot 2026-06-13 170644.png
+Screenshot 2026-06-13 170741.png
+Screenshot 2026-06-13 171352.png
+Screenshot 2026-06-13 223607.png
 
 ---
 
