@@ -83,7 +83,11 @@ Output:
 
 * Structured learning plan
 
----
+## Screenshots
+
+### Azure AI Foundry Agent
+
+![Azure AI Foundry Agent](Screenshot%202026-06-13%20223607.png)
 
 ### 4. Certification & Project Recommendation Agent (CPRA)
 
